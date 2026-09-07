@@ -79,4 +79,10 @@ Exit
 | Q4-Q5 | `faq_module.py` |
 | Q6-Q7 | `recommendation_module.py` |
 | Q8-Q9 | `product_module.py` |
-| Q10-Q11 | `review_module.
+| Q10-Q11 | `review_module.py` |
+| Q12 | `intent_module.py` |
+| Q13 | `chatbot.py` |
+
+## Screenshots
+
+Execution screenshots are available in the `screenshots` folder.
